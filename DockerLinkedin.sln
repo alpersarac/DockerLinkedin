@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerLinkedinApplicationAutomation", "DockerLinkedinApplicationAutomation\DockerLinkedinApplicationAutomation.csproj", "{C930FC62-A036-4BC8-A956-FB0FFC478080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C930FC62-A036-4BC8-A956-FB0FFC478080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C930FC62-A036-4BC8-A956-FB0FFC478080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C930FC62-A036-4BC8-A956-FB0FFC478080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C930FC62-A036-4BC8-A956-FB0FFC478080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD9054E-F66F-4EB3-AF41-3338F6DAD0B0}
+	EndGlobalSection
+EndGlobal
